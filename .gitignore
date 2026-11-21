@@ -1,2 +1,6 @@
 node_modules
 dist
+
+# AI tool files
+CLAUDE.md
+.claude/
