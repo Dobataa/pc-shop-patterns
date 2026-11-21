@@ -1,0 +1,17 @@
+{
+  "name": "pc-shop-patterns",
+  "version": "1.0.0",
+  "description": "PC configuration shop - Facade, Decorator, Builder",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "test": "tsx --test test/*.test.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
